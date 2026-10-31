@@ -7,6 +7,7 @@
 [![Zero Config](https://img.shields.io/badge/Setup-Zero%20Config%20(In--Memory)-purple?style=for-the-badge)](http://localhost:5000)
 
 > ⚡ **Quick Links**:
+>       site link--> https://mitra-scan-ai.vercel.app/
 > - 🎮 [**Interactive 5-Minute Tour**](#-interactive-5-minute-guided-tour) — Step-by-step click-through guide.
 > - 🧪 [**Copy-Paste Test Lab**](#-instant-copy-paste-test-lab) — 3 ready-to-test product samples (no camera needed!).
 > - 📖 [**System Walkthrough & Blueprint**](./README_WALKTHROUGH.md) — Deep architectural dive, AI models, engine algorithms, and file walkthrough.
